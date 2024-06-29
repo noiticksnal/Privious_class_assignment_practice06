@@ -1,0 +1,50 @@
+.img00{
+    max-width: 100%;
+    height: 50px;  
+}
+
+.sec02 .box01{
+    width: 200px;
+    height: 50px;
+    background-color: palevioletred;
+}
+
+.sec01{
+    flex-basis: 50%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.c-height .sec01bttn{
+    height:70vh;
+    flex-basis: 50%;
+    background-color: gray;
+    padding:5px;
+    }
+
+.row h1{
+font-weight: bold;
+color: #0e72cc;
+}
+
+.c-height .sec01bttn{
+    height: 50px;
+    width: 150px;
+    background-color: #0e72cc;
+    color: white;
+    font-size: 16px;
+    line-height: 40px;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 10px 10px;
+}
+
+
+
+
+
+
+
+
+
+
